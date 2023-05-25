@@ -39,3 +39,16 @@
     border-radius: 11px;
     margin-right: 60%;
 }
+.span2{
+    color:#FF6161;
+   margin:  20px 0px;
+}
+.div2{
+    text-align: center;
+    background-color:#FAFAFA;
+   width: 600px;
+  
+}
+.container-fluid {
+    width: 80%;
+}
