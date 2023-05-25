@@ -1,0 +1,19 @@
+.section1{
+    background-color: #FAD6E7;  
+}
+
+.navsection1{
+    background-color: #FAD6E7;
+}
+
+.linknav{
+    background-color: red;
+    color: white;
+    overflow: hidden;
+    font-size: 23px;
+    font-weight: 700;
+    padding: 10px 15px;
+    border: 1px solid  #FAD6E7;
+    border-radius: 11px;
+    margin: -9px 43px -3px -37px;
+}
