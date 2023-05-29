@@ -71,3 +71,9 @@
     text-align: right;
     padding: 10px 0px 13px 87px;
 }
+.div7{
+    display: flex;
+}
+.subtittle7{
+    font-size: 25px;
+}
