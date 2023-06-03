@@ -1,5 +1,5 @@
 .section1{
-    background-color: #FAD6E7;  
+    background-image: url(https://mobirise.com/assets52/images/bg-dnl.webp); 
 }
 
 
@@ -107,4 +107,46 @@
 .img10{
     border-radius: 10px;
     
+}
+.section11{
+  
+    background-image: url(https://mobirise.com/assets52/images/bg-dnl.webp);
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn10{
+    opacity: 0.5;
+
+    background-color: red;
+    color: white;
+    overflow: hidden;
+    font-size: 23px;
+    font-weight: 700;
+    padding: 12px 16px;
+    border: 1px solid  #FAD6E7;
+    border-radius: 11px;
+   
+}
+.btn11{
+    opacity: 0.5;
+    background-color:blue;
+    color: white;
+    overflow: hidden;
+    font-size: 23px;
+    font-weight: 700;
+    padding: 12px 16px;
+    border: 1px solid  #FAD6E7;
+    border-radius: 11px;
+}
+.btn12{
+    opacity: 0.5;
+    color:black;
+    overflow: hidden;
+    font-size: 23px;
+    font-weight: 700;
+    padding: 12px 16px;
+   border: 1px solid #FAFAFA;
+    border-radius: 11px;
+   
 }
