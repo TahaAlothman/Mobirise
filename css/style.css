@@ -151,8 +151,8 @@
    
 }
 .img12{
-   display: block;
-    height: 1000px;
+   display: flex;
+    height: 100%;
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
 }
